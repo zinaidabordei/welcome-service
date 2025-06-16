@@ -1,5 +1,6 @@
 #!/bin/bash
-echo "Hello 312 Stadent!"
-echo "Inter Your Name Please:"
-read name
-echo "$names, welcome to 313 School"
+echo "Hello 312 Student!"
+echo "Enter Your Name Please:"
+read Zinaida
+echo "$name, welcome to 312 School"
+
