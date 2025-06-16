@@ -4,3 +4,4 @@ echo "Enter Your Name Please:"
 read Zinaida
 echo "$name, welcome to 312 School"
 
+echo "new unnecessary changes"
